@@ -8,7 +8,7 @@
  */
 char *_strstr(char *haystack, char *needle)
 {
-	char *h, *n;
+  //	char *h, *n;
 
 	/*	if (haystack == '\0' || needle == '\0')
 		return (0);
